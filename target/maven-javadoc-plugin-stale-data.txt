@@ -1,0 +1,53 @@
+@options
+@packages
+-classpath
+'C:/Users/WHC2G/.m2/repository/com/google/code/gson/gson/2.8.8/gson-2.8.8.jar;C:/Users/WHC2G/.m2/repository/mysql/mysql-connector-java/8.0.28/mysql-connector-java-8.0.28.jar;C:/Users/WHC2G/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar;C:/Users/WHC2G/.m2/repository/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar;C:/Users/WHC2G/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar;C:/Users/WHC2G/.m2/repository/org/json/json/20210307/json-20210307.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/WHC2G/Documents/NetBeansProjects/holamundofrontend/AABOOTS/src/main/java;C:/Users/WHC2G/Documents/NetBeansProjects/holamundofrontend/AABOOTS/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/WHC2G/Documents/NetBeansProjects/holamundofrontend/AABOOTS/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'AABOOTS 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'AABOOTS 1.0-SNAPSHOT API'
+config
+Controlador
+Modelo
+C:\Users\WHC2G\.m2\repository\com\google\code\gson\gson\2.8.8\gson-2.8.8.jar = 1692419957687
+C:\Users\WHC2G\.m2\repository\mysql\mysql-connector-java\8.0.28\mysql-connector-java-8.0.28.jar = 1693663152430
+C:\Users\WHC2G\.m2\repository\com\google\protobuf\protobuf-java\3.11.4\protobuf-java-3.11.4.jar = 1693663150811
+C:\Users\WHC2G\.m2\repository\javax\javaee-web-api\7.0\javaee-web-api-7.0.jar = 1692160670881
+C:\Users\WHC2G\.m2\repository\jstl\jstl\1.2\jstl-1.2.jar = 1714096166507
+C:\Users\WHC2G\.m2\repository\org\json\json\20210307\json-20210307.jar = 1714677196248
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\src\main\java = 1714196517873
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\generated-sources\annotations = 1715927213410
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\allclasses-index.html = 1715927221436
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\allpackages-index.html = 1715927221439
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\element-list = 1715927221233
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\help-doc.html = 1715927221490
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\index-all.html = 1715927221479
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\index.html = 1715927221407
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\jquery-ui.overrides.css = 1715927221513
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\member-search-index.js = 1715927221447
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\module-search-index.js = 1715927221441
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\overview-summary.html = 1715927221482
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\overview-tree.html = 1715927221400
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\package-search-index.js = 1715927221444
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\script.js = 1715927221498
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\search.js = 1715927221500
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\serialized-form.html = 1715927221294
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\stylesheet.css = 1715927221496
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\tag-search-index.js = 1715927221449
+C:\Users\WHC2G\Documents\NetBeansProjects\holamundofrontend\AABOOTS\target\apidocs\type-search-index.js = 1715927221445
